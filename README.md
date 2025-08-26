@@ -14,11 +14,3 @@
 - **Readable, minimal code** with few dependencies
 
 ---
-
-## 📂 Project structure
-.
-├── login.py # Flask login endpoint (writes login_log.csv)
-├── session.py # Feature engineering + IsolationForest + rules
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-└── login_log.csv # Created at runtime (append-only log file)
